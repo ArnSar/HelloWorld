@@ -1,0 +1,6 @@
+﻿  Main.cpp
+D:\Projects\HelloWorld\HelloWorld\Main.cpp(4): fatal error C1075: '{': no matching token found
+  vector.cpp
+  Generating Code...
+D:\Projects\HelloWorld\HelloWorld\vector.cpp(11): error C4716: 'PrintVector': must return a value
+D:\Projects\HelloWorld\HelloWorld\vector.cpp(6): error C4700: uninitialized local variable 'n' used
